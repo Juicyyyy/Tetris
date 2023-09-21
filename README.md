@@ -1,4 +1,4 @@
-Deploy https://iridescent-salmiakki-491cfd.netlify.app/  
+Deploy https://650bea2722f8bb204a5a7345--mellifluous-shortbread-7f6de7.netlify.app/  
 
 # Игра «Тетрис»
 
